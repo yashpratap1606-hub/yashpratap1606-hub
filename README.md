@@ -7,7 +7,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-# yashpratap1606
+# yashpratap
 
 ```bash
 $ whoami
@@ -46,21 +46,6 @@ currently  = "training something, probably"
 
 ---
 
-## activity
-
-<!--
-  SNAKE SETUP — do this once:
-  1. Go to your profile repo: github.com/yashpratap1606/yashpratap1606
-  2. Create this file: .github/workflows/snake.yml
-  3. Paste the workflow from the SNAKE WORKFLOW section below
-  4. Go to Settings > Actions > General > set Workflow permissions to "Read and write"
-  5. Run the action manually once from the Actions tab
-  Once it runs, uncomment the line below and delete this comment block.
--->
-
-<!-- ![snake](https://github.com/yashpratap1606/yashpratap1606/blob/output/github-contribution-grid-snake-dark.svg) -->
-
----
 
 ```bash
 $ grep -r "contact" ./yash
