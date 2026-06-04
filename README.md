@@ -1,16 +1,58 @@
-## Hi there 👋
+```
+██╗   ██╗ █████╗ ███████╗██╗  ██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║
+ ╚████╔╝ ███████║███████╗███████║
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║
+   ██║   ██║  ██║███████║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<!--
-**yashpratap1606-hub/yashpratap1606-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# yashpratap1606
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+> ML engineer. AI tinkerer. Building things that learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat interests.txt
+> machine learning / deep learning
+> neural architectures
+> low-level optimization
+> turning research papers into working code
+```
+
+---
+
+## stack
+
+```python
+languages  = ["Python", "C++", "Java"]
+tools      = ["NumPy", "Git"]
+domain     = ["ML", "AI", "Data"]
+currently  = "training something, probably"
+```
+
+---
+
+## stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yashpratap1606&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpratap1606&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpratap1606&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## activity
+
+![snake animation](https://github.com/yashpratap1606/yashpratap1606/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+```bash
+$ grep -r "contact" ./yash
+> github  : github.com/yashpratap1606
+```
